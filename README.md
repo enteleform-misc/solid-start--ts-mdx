@@ -1,1 +1,0 @@
-# solid-start--ts-mdx
